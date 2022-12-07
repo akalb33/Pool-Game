@@ -12,4 +12,6 @@ Then, the cue ball can be hit by holding left click, and moving the mouse parall
 The cue ball can be picked up in the case of a scratch by holding space and moving the mouse.
 
 HOW TO RUN THIS PROGRAM:
- - Download the folder named "Download-This" and launch the executable inside.
+ - Download the folder named "Pool" and launch the executable (Pool.exe) inside.
+
+To run this program inside of Visual Studio Community, the SFML library will be required.
