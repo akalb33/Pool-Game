@@ -15,3 +15,7 @@ HOW TO RUN THIS PROGRAM:
  - Download the folder named "Pool" and launch the executable (Pool.exe) inside.
 
 To run this program inside of Visual Studio Community, the SFML library will be required.
+
+
+Youtube video demonstrating this project: 
+https://youtu.be/1aPEroQp62w 
